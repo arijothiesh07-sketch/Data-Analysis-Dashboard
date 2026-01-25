@@ -41,6 +41,8 @@ Business analytics learning
 
 Dashboard case study projects
 
+https://github.com/arijothiesh07-sketch/Data-Analysis-Dashboard/blob/main/Screenshot%202026-01-25%20195615.png
+
 👨‍💻 For Future Interns
 
 This project demonstrates how data can support strategic decisions in sales growth, product prioritization, and market expansion. Future interns can extend this by adding forecasting, customer segmentation, and profitability optimization.
