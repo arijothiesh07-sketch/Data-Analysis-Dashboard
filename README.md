@@ -44,3 +44,5 @@ Dashboard case study projects
 👨‍💻 For Future Interns
 
 This project demonstrates how data can support strategic decisions in sales growth, product prioritization, and market expansion. Future interns can extend this by adding forecasting, customer segmentation, and profitability optimization.
+#dataanalytics #powerbi #businessintelligence #internship #dashboard #dataanalysis #analyticsforbusiness #learningjourney #futureinterns #datascience #futureinterns
+
